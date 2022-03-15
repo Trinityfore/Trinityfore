@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pseudotrin" target="blank"><img src="https://img.shields.io/twitter/follow/pseudotrin?logo=twitter&style=for-the-badge" alt="pseudotrin" /></a> </p>
 
-- 🔭 I’m currently working on **RubberDuckies Python/Django App**
+- 🔭 I’m currently working on **Phoenix Coffee Roasters Python/Django App**
 
 - 🌱 I’m currently learning **Python/Django**
 
