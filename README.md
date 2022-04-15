@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **my pets 🐶🐱**
 
-- 📫 How to reach me **trinityfore@gmail.com or linkedin.com/trinityfore**
+- 📫 How to reach me **trinity@tfore.dev or linkedin.com/trinityfore**
 
 - ⚡ Fun fact **I'm very funny, i know ASL**
 
